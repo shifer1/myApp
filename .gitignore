@@ -15,7 +15,3 @@
 /log/*
 !/log/.keep
 /tmp
-
-.saeedkey
-.saeedkey.pub
-.saeedkey.pub~
